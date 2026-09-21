@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/read/stack",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Citeworthy",
+      "hasCanvas": false,
+      "bodyTextLen": 5095,
+      "bodyTextHash": "cd2d0ad6ba24f8023367344471e64183760f164cdf4e688160c2e13b0488e196",
+      "bodyTextPrefix": "Skip to content Citeworthy FIELD MANUAL Briefing Manual Engines ",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/chapter-stack.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Citeworthy",
+      "hasCanvas": false,
+      "bodyTextLen": 4737,
+      "bodyTextHash": "0f6e766a6f5c7d2025504d68189be67f6e5c8a7fbaea3998b4bb6c0c376da19b",
+      "bodyTextPrefix": "Skip to content Citeworthy CH 06 9 MIN Save The machine-readable",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/chapter-stack-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/chapter-stack.json"
+}

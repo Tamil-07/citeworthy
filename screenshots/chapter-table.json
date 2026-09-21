@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/read/two-internets",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Citeworthy",
+      "hasCanvas": false,
+      "bodyTextLen": 3127,
+      "bodyTextHash": "bdb34a0cd7db845e6587853de29b311ddaab4a4b08c2f9943ed5bd7085813818",
+      "bodyTextPrefix": "Skip to content Citeworthy FIELD MANUAL Briefing Manual Engines ",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/chapter-table.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Citeworthy",
+      "hasCanvas": false,
+      "bodyTextLen": 2851,
+      "bodyTextHash": "9b012f01abb23874bd969c96454f586f5320eebe021a83eb17f8b6e39dde2a8a",
+      "bodyTextPrefix": "Skip to content Citeworthy CH 01 7 MIN Save Two internets, one s",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/chapter-table-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/chapter-table.json"
+}

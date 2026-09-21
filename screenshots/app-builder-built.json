@@ -1,0 +1,38 @@
+{
+  "url": "http://127.0.0.1:8081/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Citeworthy",
+      "hasCanvas": false,
+      "bodyTextLen": 2503,
+      "bodyTextHash": "02b5dd83dd6c380113459bea6124714b10ea2cf4b532037d6024d93db1127c1a",
+      "bodyTextPrefix": "Skip to content Citeworthy FIELD MANUAL Briefing Manual Engines ",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Citeworthy",
+      "hasCanvas": false,
+      "bodyTextLen": 2351,
+      "bodyTextHash": "6b9429fed3e5dcb341b1ce7d3af42f5813da4f4bafbe9f60cd094d59090c3ecc",
+      "bodyTextPrefix": "Skip to content Citeworthy CLASSIFICATION · FAN-OUT / 00-BRIEFIN",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-built.json",
+  "divergesFromBaseline": false,
+  "baselineReasons": []
+}
